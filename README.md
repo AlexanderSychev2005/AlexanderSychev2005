@@ -2,6 +2,8 @@
 <h1 align="center">Hi there, I'm Alex 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, university student writer from Ukraine <img src="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ukraine_animated_flag.gif" height="16"/></h3>
+<h3>🔭 I’m currently working on some projects with studying</h3>
+<h3>🌱 I’m currently learning Python, OOP , Frontend and Data Base</h3>
 
 <!--
 **AlexanderSychev2005/AlexanderSychev2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
