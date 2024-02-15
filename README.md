@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ![image](https://www.codewars.com/users/AlexanderSychev2005/badges/large)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandersychev2005&show_icons=true&locale=en&layout=compact" alt="alexandersychev2005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandersychev2005&show_icons=true&theme=dark&locale=en&layout=compact" alt="alexandersychev2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandersychev2005&show_icons=true&locale=en" alt="alexandersychev2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandersychev2005&show_icons=true&theme=dark&locale=en" alt="alexandersychev2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandersychev2005&" alt="alexandersychev2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandersychev2005&theme=dark" alt="alexandersychev2005" /></p>
