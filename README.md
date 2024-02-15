@@ -9,7 +9,7 @@
 <h3 align="left">🔭 I’m currently working on some projects with studying<br>🌱 I’m currently learning Python, OOP , Frontend and Data Base</h3>
 
 ###
-&nbsp;<div align="center">
+&nbsp;<div align="left">
   [![Spotify](https://spotify-app-git-main-alexandersychev2005.vercel.app/api/spotify)](https://open.spotify.com/user/z2kedwqbwra2vt5ynqltma9cp)
 </div>
 
