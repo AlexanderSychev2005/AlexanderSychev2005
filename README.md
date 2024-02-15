@@ -87,9 +87,7 @@
 
 ###
 
-<div align="center">
-  <img src="?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
-</div>
+[![Spotify](spotify-app-git-main-alexandersychev2005.vercel.app/api/spotify)](https://open.spotify.com/user/z2kedwqbwra2vt5ynqltma9cp)
 
 ###
 
