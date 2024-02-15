@@ -87,7 +87,7 @@
 
 ###
 &nbsp;<div align="center">
-  [![Spotify](spotify-app-git-main-alexandersychev2005.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/z2kedwqbwra2vt5ynqltma9cp)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/z2kedwqbwra2vt5ynqltma9cp)
 </div>
 
 ###
