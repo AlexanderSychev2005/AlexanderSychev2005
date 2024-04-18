@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on some projects with studying<br>🌱 I’m currently learning Python, OOP , Frontend and Data Base</h3>
+<h3 align="left">🔭 I’m currently working on some projects with studying<br>🌱 I’m currently learning Python, ML, AI</h3>
 
 ###
 
