@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">Computer science student, university student writer from Ukraine 🇺🇦</h3>
+<h3 align="center">Data Science Engineer, computer science student from Ukraine 🇺🇦</h3>
 
 ###
 
-<h3 align="left">🔭 I’m currently working on some projects with studying<br>🌱 I’m currently learning Python, ML, AI</h3>
+<h3 align="left">🔭 I’m currently working on making a life better <br>🌱 Interested in Machine Learning, Deep Learning</h3>
 
 ###
 
