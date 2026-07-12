@@ -16,10 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderSychev2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
 <img src="https://raw.githubusercontent.com/AlexanderSychev2005/AlexanderSychev2005/output/snake.svg" alt="Snake animation" />
 
 ###
