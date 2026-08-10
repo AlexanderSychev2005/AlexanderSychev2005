@@ -2,11 +2,7 @@
 
 ###
 
-<h3 align="center">Data Science Engineer, computer science student from Ukraine 🇺🇦</h3>
-
-###
-
-<h3 align="left">🔭 I’m currently working on making a life better <br>🌱 Interested in Machine Learning, Deep Learning</h3>
+<h3 align="center">Data Scientist & NLP Researcher 🔬</h3>
 
 ###
 
